@@ -1,0 +1,60 @@
+{
+  "employees": [
+    {
+      "first_name": "Shubham Kumar",
+      "last_name": "Jaiswal",
+      "email": "krshubhamjaiswal2000@gmail.com",
+      "department": "Operations",
+      "salary": "500000",
+      "id": 1
+    },
+    {
+      "first_name": "Shivam Kumar",
+      "last_name": "Jaiswal",
+      "email": "krshivamjee@gmail.com",
+      "department": "Operations",
+      "salary": "50000",
+      "id": 4
+    },
+    {
+      "first_name": "Rohit Kumar",
+      "last_name": "Sharma",
+      "email": "rohitsharma@gmail.com",
+      "department": "Operations",
+      "salary": "90000",
+      "id": 6
+    },
+    {
+      "first_name": "Rohan ",
+      "last_name": "Sharma",
+      "email": "rohan@gmail.com",
+      "department": "Marketing",
+      "salary": "300",
+      "id": 7
+    },
+    {
+      "first_name": "Riya ",
+      "last_name": "Kumari",
+      "email": "riya@gmail.com",
+      "department": "Operations",
+      "salary": "234500",
+      "id": 8
+    },
+    {
+      "first_name": "Pushkaraj ",
+      "last_name": "Laurance",
+      "email": "pushkarajlolusare24@gmail.com",
+      "department": "Operations",
+      "salary": "30000",
+      "id": 9
+    },
+    {
+      "first_name": "Virat",
+      "last_name": "Kolhi",
+      "email": "viru@gmail.com",
+      "department": "Marketing",
+      "salary": "30000",
+      "id": 10
+    }
+  ]
+}

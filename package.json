@@ -1,0 +1,23 @@
+{
+  "name": "mockserver12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p9168247913/mock12jsonserver.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p9168247913/mock12jsonserver/issues"
+  },
+  "homepage": "https://github.com/p9168247913/mock12jsonserver#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
